@@ -24,4 +24,4 @@ Este é o meu primeiro projeto utilizando o **Git** e **GitHub**.
 ### Adicionada uam nova funcionalidade
 
 ## Realizando uma MARGE
-### Nesse caso precisamos unir as funcionalidades e rotinas em um projeto principal, para isso usamos o comando: **git checkout main**, com esse comando voltamos para branch pricipal na linha do tempo para realizarmos a união do desenvolvimento dentro do projeto.
+Nesse caso precisamos unir as funcionalidades e rotinas em um projeto principal, para isso usamos o comando: **git checkout main**, com esse comando voltamos para branch pricipal na linha do tempo para realizarmos a união do desenvolvimento dentro do projeto.
