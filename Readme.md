@@ -20,3 +20,5 @@ Este é o meu primeiro projeto utilizando o **Git** e **GitHub**.
 ### Criando uma nova Branch
 
 ### É possível criar novas Branch dentro de um projeto usando o comando: git checkout -b 'nome da nova branch'
+
+### Adicionada uam nova funcionalidade
