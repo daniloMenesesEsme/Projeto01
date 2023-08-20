@@ -14,3 +14,9 @@ Este é o meu primeiro projeto utilizando o **Git** e **GitHub**.
 # Branchs - Visão Geral
 
 ### É possível criar novas branchs na linha do tempo da breanch principal de um projeto, são modificações que caminham juntos, acrescentando linhas de comandos ou adicionando funcionalidades para um projeto, onde desenvolvedores caminha para um resultado final, esses pontos de união para adição das modificações é chamado de "MARGE", pode acontece de que alguma linha de comando que foi alterada ou modificada ainda esteja na linha do tempo do projeto principal e isso cause algum erro, nada que não possa ser corregida, essa visão é resumida.
+
+## Adicionando uma nova branch no projeto
+
+### Criando uma nova Branch
+
+### É possível criar novas Branch dentro de um projeto usando o comando: git checkout -b 'nome da nova branch'
