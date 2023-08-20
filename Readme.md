@@ -22,3 +22,6 @@ Este é o meu primeiro projeto utilizando o **Git** e **GitHub**.
 ### É possível criar novas Branch dentro de um projeto usando o comando: git checkout -b 'nome da nova branch'
 
 ### Adicionada uam nova funcionalidade
+
+## Realizando uma MARGE
+### Nesse caso precisamos unir as funcionalidades e rotinas em um projeto principal, para isso usamos o comando: **git checkout main**, com esse comando voltamos para branch pricipal na linha do tempo para realizarmos a união do desenvolvimento dentro do projeto.
